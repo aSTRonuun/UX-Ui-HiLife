@@ -8,7 +8,7 @@
 
 <p align="center">
  <a href="#-sobre-o-protótipo">Sobre</a> •
- <a href="#-ui/ux-design">Design</a> •
+ <a href="#-ui-ux-design">Design</a> •
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-contribuidores">Contribuidores</a> • 
  <a href="#-licença">Licença</a>
@@ -28,7 +28,7 @@ Para realizar a análise do protótipo, utilizamos o método de **avaliação de
 
 ---
 
-## 🎨 UI/UX Design
+## 🎨 UI UX Design
 
 O layout da aplicação está disponível no Figma:
 
