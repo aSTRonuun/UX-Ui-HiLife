@@ -78,4 +78,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com 💜 por [Vitor Alves](https://www.linkedin.com/in/vitor-alves-a089ab200/) e Carlos Henryck  👋🏽 Entre em contato!
+Feito com 💜 por [Vitor Alves](https://www.linkedin.com/in/vitor-alves-a089ab200/) e Carlos Henryck  👋🏽 Entre em contato!!
