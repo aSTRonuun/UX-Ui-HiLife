@@ -2,6 +2,15 @@
     <img alt="HiLife" title="HiLife" src="./Assets/Banner.png"/>
 </h1>
 
+<p align="center">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/aSTRonuun/UX-Ui-HiLife?color=%237B68EE">
+  <img alt="GitHub" src="https://img.shields.io/github/license/aSTRonuun/UX-Ui-HiLife?color=%09%238A2BE2">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/CarlosHenryck/HiLife?color=%239370DB">
+  <img alt="GitHub" src="https://img.shields.io/badge/categoria-sa%C3%BAde-%23A020F0">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/aSTRonuun/UX-Ui-HiLife?style=social">
+
+</p>
+
 <h4 align="center">
     🚧 HiLife 💜 Concluído 🚀 🚧
 </h4>
@@ -23,7 +32,7 @@
 
 Projeto desenvolvido no curso de *Engenharia de Software* durante a cadeira de IHC(Interação Humano Computador), tal projeto tem o objetivo de analisar a interação do usuário com a interface de um protótipo criado por nós, buscando assim deficiências e possíveis melhorias na interface, usando conceitos de **UI** e **UX** para tornar a experiência de uso a melhor possível.
 
-Para realizar a análise do protótipo, utilizamos o método de **avaliação de observação** e **teste de usabilidade**, utilizando a ferramenta [Maze](https://maze.co/). Essa ferramenta nos permite criar tarefas dentro do nosso protótipo, para que o usuário as faça e avalie o nível de dificuldade para realizá-las (**veja o resumo do planejamento da avaliação** [aqui](https://github.com/aSTRonuun/UX-Ui-HiLife/blob/main/06-Planejamento%20da%20Avalia%C3%A7%C3%A3o%20de%20IHC/Resumo_do_planejamento.pdf))). Diante disso, ao fim da análise, obtemos várias informações sobre a interação realizada pelos usuários. Com essas informações obtidas, compilamos todas elas em um único arquivo e observamos as falhas da nossa interface e por fim, remodelamos as telas que os usuários tiveram mais dificuldade.
+Para realizar a análise do protótipo, utilizamos o método de **avaliação de observação** e **teste de usabilidade**, utilizando a ferramenta [Maze](https://maze.co/). Essa ferramenta nos permite criar tarefas dentro do nosso protótipo, para que o usuário as faça e avalie o nível de dificuldade para realizá-las (**veja o resumo do planejamento da avaliação** [aqui](https://github.com/aSTRonuun/UX-Ui-HiLife/blob/main/06-Planejamento%20da%20Avalia%C3%A7%C3%A3o%20de%20IHC/Resumo_do_planejamento.pdf)). Diante disso, ao fim da análise, obtemos várias informações sobre a interação realizada pelos usuários. Com essas informações obtidas, compilamos todas elas em um único arquivo e observamos as falhas da nossa interface e por fim, remodelamos as telas que os usuários tiveram mais dificuldade.
 ### Você pode acessar o relatório de resultados do projeto 📊 [clicando aqui](https://github.com/aSTRonuun/UX-Ui-HiLife/blob/main/07-Relat%C3%B3rio%20dos%20Resultados/Relat%C3%B3rio-dos-resultados.pdf).
 
 ---
